@@ -1,2 +1,2 @@
 # python-scripts
-Superseded scripts to manager the cluster and the applications
+Superseded scripts to manage the cluster and the applications.
